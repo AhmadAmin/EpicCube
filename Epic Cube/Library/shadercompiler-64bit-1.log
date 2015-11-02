@@ -1,3 +1,79 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-6404
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-8844
 Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4134 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5061 outsize=4174 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5061 outsize=4508 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5061 outsize=4174 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5061 outsize=3979 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5061 outsize=4174 kw=DIRECTIONAL FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5061 outsize=3240 kw=DIRECTIONAL FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3830 outsize=3069 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3830 outsize=2119 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3830 outsize=3069 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3830 outsize=2614 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3830 outsize=3069 kw=DIRECTIONAL FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3830 outsize=1339 kw=DIRECTIONAL FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5352 outsize=4174 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5352 outsize=3979 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5352 outsize=4174 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5352 outsize=4508 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5352 outsize=4174 kw=DIRECTIONAL FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5352 outsize=3240 kw=DIRECTIONAL FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3695 outsize=3069 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3695 outsize=2119 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4837 outsize=4337 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4837 outsize=2907 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4837 outsize=4337 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4837 outsize=3403 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4097 outsize=3069 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4097 outsize=3029 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5087 outsize=4174 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5087 outsize=4158 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5087 outsize=4174 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5087 outsize=4686 kw=SPOT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3906 outsize=3069 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3906 outsize=3208 kw=POINT FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1706 outsize=1607 kw=FOG_EXP2 SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1706 outsize=1038 kw=FOG_EXP2 SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6924 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=959 outsize=1404 kw=FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=959 outsize=973 kw=FOG_EXP2 pd= ok=1

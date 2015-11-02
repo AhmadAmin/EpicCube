@@ -56,7 +56,7 @@ public class RayCast : MonoBehaviour {
             if (hit.transform.tag == "Enemy")
             {
                 hit.transform.gameObject.GetComponent<Animator>().SetTrigger("Shot");
-                yield return new WaitForSeconds(0.5f);
+                yield return new WaitForSeconds(5f);
                 Destroy(hit.transform.gameObject);
             }
             impacts[currentImpact].transform.position = hit.point;
